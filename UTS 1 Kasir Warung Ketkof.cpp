@@ -141,6 +141,6 @@ int main (){
     }
     } 
     while (mad/='Y');
-    cout<<"Terimah Kasih Atas Kunjungan Anda WARUNG NASI BALAP PUYUNG";
+    cout<<"Terimah Kasih Atas Kunjungan Anda WARUNG KOPI KETKOF";
     return 0;
 }
